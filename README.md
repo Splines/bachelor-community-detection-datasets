@@ -29,7 +29,7 @@ kddcup/datasets.html (visited on 06/21/2022).
 ```
 
 
-- The `lehnerer` graph is the third graph from Simon Lehnerer used in his paper ["Community Detection in Complex Networks using Genetic Algorithms"](https://dl.gi.de/handle/20.500.12116/28981).
+- The `lehnerer` graph is the third graph from Simon Lehnerer used in his paper ["Community Detection in Complex Networks using Genetic Algorithms"](https://dl.gi.de/handle/20.500.12116/28981). Other graphs can be found in [his repo](https://github.com/SimonNick/genetic-algorithm-community-detection).
 
 ```
 Lehnerer, S., (2018). Community Detection in Complex Networks using Genetic Algorithms. In: Becker, M. (Hrsg.), SKILL 2018 - Studierendenkonferenz Informatik. Bonn: Gesellschaft für Informatik e.V.. (S. 35-46).
